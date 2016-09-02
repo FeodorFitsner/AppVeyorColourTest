@@ -1,6 +1,4 @@
 install:
-  - ps: Install-Product node 6 x64
-  - npm install -g npm@latest
   - node --version
   - npm --version
   - npm install
